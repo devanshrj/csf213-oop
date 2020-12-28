@@ -1,0 +1,10 @@
+*.class
+
+.DS_Store
+.classpath
+.metadata/
+.project
+.vscode/
+
+/bin
+/lib
