@@ -1,0 +1,3 @@
+Results:
+Number of heads: 7
+Number of tails: 3
